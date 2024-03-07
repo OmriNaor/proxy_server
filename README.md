@@ -58,3 +58,16 @@ To compile and run the project, follow these steps:
 2. Compile the project using the provided command.
 3. Configure your browser to route traffic through the proxy server.
 4. Start the proxy server with appropriate configuration arguments, specifying the path to your filter text file.
+   
+
+For testing and demonstration purposes, you may use the following HTTP URLs with ProxyServer to explore its capabilities:
+
+- [PDF widgets sample](http://www.pdf995.com/samples/widgets.pdf)
+- [Physics questions](http://www.csun.edu/science/ref/games/questions/97_phys.pdf)
+- [PDF995 website](http://www.pdf995.com/)
+- [HTTP Forever](http://httpforever.com/index.html)
+- [Joseph W Carrillo's website](http://www.josephwcarrillo.com/index.html)
+- [022 Israeli news site](http://www.022.co.il/welcome.html)
+- [HMPJ Hebrew site](http://www.hmpj.manhi.org.il/)
+
+Please note that these URLs are provided for testing and demonstration purposes only and are meant to illustrate the usage of HTTP (not HTTPS) with ProxyServer.
